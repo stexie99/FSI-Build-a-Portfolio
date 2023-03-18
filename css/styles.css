@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(78, 203, 252);
+}
+img {
+    height: 300px;
+    width: 450px;
+    image-rendering: high-quality;
+    border: 2px solid black;
+    border-radius: 30px 100px;
+}
+div {
+    text-align: center;
+}
+main{
+    text-align: left;
+}
